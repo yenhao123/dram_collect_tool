@@ -1,0 +1,4 @@
+benchmark/openvino/intel/
+lib/out/
+lib/perf.data
+lib/perf.data.old
